@@ -1,4 +1,4 @@
-### Hi there 👋
+![Arctic_Code_Vault_Contributor](https://img.shields.io/badge/Arctic_Code_Vault_Contributor-black?logo=github)
 
 <!--
 **mtsgi/mtsgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
