@@ -1,4 +1,10 @@
-![Arctic_Code_Vault_Contributor](https://img.shields.io/badge/Arctic_Code_Vault_Contributor-black?logo=github)
+<p align="center">
+ <img src="https://img.shields.io/badge/Arctic_Code_Vault_Contributor-black?logo=github&style=for-the-badge" alt="Arctic_Code_Vault_Contributor" />
+</p>
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=mtsgi&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="mtsgi's github stats" />
+</p>
 
 <!--
 **mtsgi/mtsgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
