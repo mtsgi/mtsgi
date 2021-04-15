@@ -1,5 +1,3 @@
-Works
-
 [![kit](https://github-readme-stats.vercel.app/api/pin/?username=mtsgi&repo=kit&show_owner=true)](https://github.com/mtsgi/kit)
 
 ![Arctic_Code_Vault_Contributor](https://img.shields.io/badge/Arctic_Code_Vault_Contributor-black?style=for-the-badge&logo=github)
